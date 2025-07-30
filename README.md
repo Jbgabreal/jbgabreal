@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm a **Technical Product & Risk Analyst** with 7+ years of experience across **fintech, credit risk, and sports betting**, now building real-world solutions at the intersection of **AI, Web3, and Data Analytics**.
 
-I design and ship **working products** — not just prototypes — combining **prompt engineering**, **automation**, and **secure API workflows** to solve complex problems.
+I design and ship **working products**  not just prototypes but combining **prompt engineering**, **automation**, and **secure API workflows** to solve complex problems.
 
 ---
 
