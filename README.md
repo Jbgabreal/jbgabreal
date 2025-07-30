@@ -8,6 +8,13 @@ I design and ship **working products** — not just prototypes — combining **p
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbgabreal&show_icons=true&theme=radical)   [![GitHub Streak](https://streak-stats.demolab.com/?user=jbgabreal&theme=dark)](https://git.io/streak-stats)
+
+
+---
+
 ## 🧠 What I Do
 
 - 🤖 Build **AI-driven Web3 applications** using multi-agent systems and prompt engineering  
